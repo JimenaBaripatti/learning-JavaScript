@@ -8,4 +8,4 @@ if (age >= 14 && age <= 90) {
 //Create two variants: the first one using NOT !, the second one – without it.
 if (!(age >= 14 && age <= 90))
 
-if (age < 14 || age > 90)
+if (age < 14 || age > 90);
